@@ -367,7 +367,7 @@ def render_tab(df, titulo, meta_nota, meta_tme_chat_seg, meta_tme_pbx_seg, meta_
     )
 
 # --- Execução ---
-st.title("📊 Painel de Metas e Performance")
+st.title("📊 Painel de Metas e Performance - Fevereiro/2026")
 
 st.sidebar.title("⚙️ Configuração de Metas")
 st.sidebar.markdown("Defina os alvos para colorir a tabela.")
